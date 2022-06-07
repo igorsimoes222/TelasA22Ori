@@ -1,0 +1,63 @@
+* {
+    margin: 4px;
+    padding: 0px;
+}
+
+/* parte para mexer no header */
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+/* posição da imagem */
+img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1em;
+}
+
+.main {
+    position: relative;
+    top: 10em;
+    text-align: center;
+
+}
+
+
+.cadastro1 {
+    justify-items: flex-start;
+    justify-content: space-between;
+    font-size: 0.9em;
+    padding: 5px 12px;
+}
+
+.nome1 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+
+}
+
+
+.btn-pular {
+    position: absolute;
+    top: 17em;
+    display: flex;
+    right: 10em;
+    padding: 0px 5px;
+    justify-content: right;
+}
+
+.btn-voltar {
+
+    position: absolute;
+    top: 17em;
+    display: flex;
+    justify-content: left;
+    left: 10em;
+
+
+}

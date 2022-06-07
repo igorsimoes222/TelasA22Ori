@@ -1,0 +1,38 @@
+*{
+    margin: 4px;
+    padding: 0px;
+}
+
+
+/* parte para mexer no header */
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    }
+
+/* posição da imagem */
+img{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+}
+
+/* parte para mexer na main */
+
+p{
+   position: relative;
+   top: 10em;
+   text-align: center;
+   font-size: 1.1em;
+}
+
+.btn{
+    position: relative;
+    top: 8em;
+       
+}
+
+
