@@ -30,14 +30,6 @@ p {
     font-size: 1.5em;
 }
 
-.btn-pular {
-    position: absolute;
-    top: 17em;
-    display: flex;
-    right: 10em;
-    padding: 0px 5px;
-    justify-content: right;
-}
 
 .btn-pular {
  margin-top: 10em;
@@ -45,5 +37,15 @@ p {
     padding: 0px 5px;
     justify-content: flex-end;
     align-items: flex-end;
+
+}
+.btn-voltar {
+
+    position: relative;
+    top: 8em;
+    display: flex;
+    justify-content: left;
+    left: 10em;
+
 
 }
