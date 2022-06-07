@@ -1,4 +1,4 @@
 # TelasA22Ori
 
 
-<a class="btn" href="inicio.html"><button>entrar
+<a class="btn" href="Inicio.html"><button>entrar
